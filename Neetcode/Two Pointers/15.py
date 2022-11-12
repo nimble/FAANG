@@ -1,16 +1,25 @@
 def threeSum(nums):
+
+    sums = []*3
+    eoa = len(nums) - 1
+    print(eoa)
+    three_arrs = 0
+    i = 0
     # [-1,0,1,2,-1,-4]
     # [[-1,-1,2],[-1,0,1]]
-    new_arr = nums
-    sums = []*3
-    i = 0
-    triplets = 0
-    three_arrs = 0
-    while(i!=0):
-        if(checkZero(sum[three_arrs])!=0):
-            sums[three_arrs].append(new_arr.remove(new_arr[i]))
-            triplets +=1
-        # no progress yet, just need commit.
+
+    # [-1,] [ ] [ ]
+
+    while(eoa!=0):
+        if(checkZero(sums[three_arrs]) and len(sums[three_arrs]) !=0): # if equal to 0.
+            # Move onto next Array.
+            three_arrs+=1
+        elif(sum(sums[three_arrs]) + nums[i] != 0 and len(sums[three_arrs]) != 0):
+            sums[three_arrs].append(nums[i])
+            i+=1
+        eoa-=1
+    
+    return sums
     
 
 
@@ -19,8 +28,9 @@ def checkZero(nums):
     return total_sum == 0
 
 def main():
-    threeSum([-1,0,1,2,-1,-4])
+    print(threeSum([-1,0,1,2,-1,-4]))
 
 
 if __name__ == '__main__':
     main()
+
