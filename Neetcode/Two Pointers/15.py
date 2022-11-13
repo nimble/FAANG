@@ -9,6 +9,7 @@ def threeSum(nums):
     # [[-1,-1,2],[-1,0,1]]
 
     # [-1,] [ ] [ ]
+    # Hint: Sort, then tackle the way you did for two-sum.
 
     while(eoa!=0):
         if(checkZero(sums[three_arrs]) and len(sums[three_arrs]) !=0): # if equal to 0.
