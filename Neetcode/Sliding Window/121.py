@@ -7,10 +7,11 @@ def maxProfit(prices):
     # Let's find the min number first out of the array..
     low_num = -1
     profit = 0
-    for num in prices:
-        if num > low_num:
+    for i, num in enumerate(prices):
+        if prices[i] > low_num:
             low_num = num
     # This will give us the smallest num.
+    # Alright.
 
 
 
