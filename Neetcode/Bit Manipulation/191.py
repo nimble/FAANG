@@ -1,10 +1,11 @@
 # Using AND 
-def hammingweight(n):
-    count = 0
-    while n:
-        count += n & 1
-        n >>= 1
-    return count
+def hammingWeight(self, n: int) -> int:
+    one_bits = 0
+    int_to_str = bin(n)
+    for char in int_to_str:
+        if(char == '1'):
+            one_bits+=1
+    return one_bits
 
 
 def main():
