@@ -1,6 +1,5 @@
 # Sliding Window 
-
-
+# Let's complete this today.
 # i represents days
 def maxProfit(prices):
     # prices = [7,6,4,3,1]
