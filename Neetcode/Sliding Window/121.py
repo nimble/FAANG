@@ -1,5 +1,6 @@
 # Sliding Window 
 # Let's complete this today.
+# LOL never got completed, fml.
 # i represents days
 def maxProfit(prices):
     # prices = [7,6,4,3,1]
