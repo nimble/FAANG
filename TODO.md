@@ -6,3 +6,4 @@ TODO:
     - Write down NYR.
     - I'm so fucked.
     - fucked x2
+    - focusing on work right now. no time for this yet.
