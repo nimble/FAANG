@@ -4,6 +4,3 @@ TODO:
     - Watch Videos / Tutorials on Leetcoding effectively.
     - Be consistent
     - Write down NYR.
-    - I'm so fucked.
-    - fucked x2
-    - focusing on work right now. no time for this yet.
