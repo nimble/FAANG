@@ -4,3 +4,4 @@ TODO:
     - Watch Videos / Tutorials on Leetcoding effectively.
     - Be consistent
     - Write down NYR.
+    - calm fam calm
