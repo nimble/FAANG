@@ -1,7 +1,3 @@
-# Sliding Window 
-# Let's complete this today.
-# LOL never got completed, fml.
-# i represents days
 def maxProfit(prices):
     # prices = [7,6,4,3,1]
     # Let's find the min number first out of the array..
@@ -12,6 +8,7 @@ def maxProfit(prices):
             low_num = num
     # This will give us the smallest num.
     # Alright.
+    # I'm screwed :)
 
 
 
