@@ -6,6 +6,27 @@ All Interview / Coding Practice will be stored in here.
 **Leetcode Folder:**
 
 **Neetcode Folder:**
+Arrays & Hashing:
+-
+-
+-
+
+Binary Search:
+-
+-
+-
+
+Bit Manipulation:
+-
+-
+-
+
+Heap & Priority Queue:
+-
+-
+-
+
+
 Bit Manipulation:
 
 - 136 [Link][https://]
