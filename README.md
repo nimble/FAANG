@@ -37,11 +37,27 @@ Linked List:
 
 - 206[Link][https://]
 
+
+Math & Geometry:
+-
+-
+-
+
+Sliding Window:
+-
+-
+-
+
+
 Stack:
 - 20 [Link][https://]
 - 22 [Link][https://]
 - 150 [Link][https://]
 - 155 [Link][https://]
+Trees:
+-
+-
+-
 
 Two Pointers:
 - 15 [Link][https://]
