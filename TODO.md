@@ -4,3 +4,4 @@ TODO:
     - Watch Videos / Tutorials on Leetcoding effectively.
     - Going to be active again with this -__- no more time wasting >_<
     - Need to build a proper schedule / regime
+    - Chat GPT-4 Hype :) 
