@@ -6,4 +6,3 @@ TODO:
     - Need to build a proper schedule / regime
     - Chat GPT-4 Hype :)
     - Will be continuining on this soon! :p 
-    dasdas
